@@ -1,0 +1,157 @@
+
+
+body {
+    background-color: #FFF3E0;
+    font-family: Arial, sans-serif;
+    color: #4E342E;
+    margin: 20px;
+}
+
+h1 {
+    color: #8D5524;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color: #A65E22;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3 {
+    color: #704214;
+    font-size: 20px;
+    text-align: center;
+}
+
+h4 {
+    color: #6D4C41;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    margin: 15px;
+}
+
+
+header {
+    background-color: #F2DFBF;
+    text-align: center;
+    padding: 15px;
+    border: 2px solid #8D5524;
+    border-radius: 10px;
+}
+
+
+.presentacion {
+    background-color: #FFFFFF;
+    text-align: center;
+    margin: 20px;
+    padding: 15px;
+    border: 2px solid #D7A86E;
+    border-radius: 10px;
+}
+
+.presentacion img {
+    width: 250px;
+    height: 150px;
+    border: 2px solid #8D5524;
+    border-radius: 10px;
+}
+
+
+.producto {
+    background-color: #FFFFFF;
+    text-align: center;
+    width: 250px;
+    margin: 15px auto;
+    padding: 10px;
+    border: 2px solid #D7A86E;
+    border-radius: 10px;
+}
+
+.producto img {
+    width: 150px;
+    height: 120px;
+    border-radius: 10px;
+}
+
+.producto p {
+    color: #A65E22;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.promocion {
+    background-color: #FFFFFF;
+    text-align: center;
+    margin: 15px;
+    padding: 15px;
+    border: 2px solid #D7A86E;
+    border-radius: 10px;
+}
+
+.promocion img {
+    width: 150px;
+    height: 120px;
+    border-radius: 10px;
+}
+
+
+.ubicacion {
+    background-color: #F2DFBF;
+    text-align: center;
+    margin: 20px;
+    padding: 15px;
+    border: 2px solid #8D5524;
+    border-radius: 10px;
+}
+
+
+.navegacion {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+.navegacion a {
+    background-color: #8D5524;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid #6F3B16;
+    border-radius: 8px;
+}
+
+
+footer {
+    background-color: #5D3825;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+footer p {
+    color: #FFFFFF;
+}
+
+
+.navegacion a:hover {
+    color:red;
+    text-decoration: underline;
+}
+
+
